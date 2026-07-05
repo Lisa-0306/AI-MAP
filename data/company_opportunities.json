@@ -1,0 +1,13 @@
+{
+  "sourceType": "页面快照推断 + 示例估算，待导入真实数据",
+  "items": [
+    { "rank": 1, "company": "沪电股份", "segment": "高速 PCB / CCL", "opportunity": "AI 服务器与交换机 PCB 升级", "score": 88, "advice": "重点跟踪" },
+    { "rank": 2, "company": "新易盛", "segment": "高速光模块", "opportunity": "800G/1.6T 光模块放量", "score": 86, "advice": "重点跟踪" },
+    { "rank": 3, "company": "中际旭创", "segment": "高速光模块", "opportunity": "海外大客户资本开支与速率升级", "score": 85, "advice": "重点跟踪" },
+    { "rank": 4, "company": "工业富联", "segment": "AI 服务器 / 机柜集成", "opportunity": "GB300 / Rubin 机柜级集成", "score": 82, "advice": "重点跟踪" },
+    { "rank": 5, "company": "英维克", "segment": "液冷 / 温控", "opportunity": "高功率机柜液冷渗透率提升", "score": 80, "advice": "重点跟踪" },
+    { "rank": 6, "company": "寒武纪", "segment": "国产 GPU / NPU", "opportunity": "国产替代与推理侧生态", "score": 76, "advice": "高波动跟踪" },
+    { "rank": 7, "company": "长电科技", "segment": "先进封装", "opportunity": "Chiplet 与先进封装国产化", "score": 74, "advice": "阶段性跟踪" }
+  ],
+  "disclaimer": "排序为研究框架示例，不构成投资建议。"
+}
