@@ -1,0 +1,26 @@
+{
+  "updatedAt": "2026-06-20",
+  "sourceType": "示例估算，待导入真实数据",
+  "regions": [
+    {
+      "region": "全球",
+      "items": [
+        { "name": "GPU", "chain": "算力芯片", "demand": 100, "effectiveSupply": 72, "unit": "指数", "ratio": 0.72, "status": "紧缺" },
+        { "name": "HBM", "chain": "存储", "demand": 100, "effectiveSupply": 68, "unit": "指数", "ratio": 0.68, "status": "紧缺" },
+        { "name": "CoWoS / 先进封装", "chain": "封装", "demand": 100, "effectiveSupply": 62, "unit": "指数", "ratio": 0.62, "status": "高度紧缺" },
+        { "name": "800G / 1.6T 光模块", "chain": "光互连", "demand": 100, "effectiveSupply": 84, "unit": "指数", "ratio": 0.84, "status": "偏紧" },
+        { "name": "液冷 / CDU", "chain": "散热", "demand": 100, "effectiveSupply": 90, "unit": "指数", "ratio": 0.90, "status": "偏紧" }
+      ]
+    },
+    {
+      "region": "中国",
+      "items": [
+        { "name": "国产 GPU / NPU", "chain": "算力芯片", "demand": 100, "effectiveSupply": 45, "unit": "指数", "ratio": 0.45, "status": "高度紧缺" },
+        { "name": "高速 PCB / CCL", "chain": "PCB", "demand": 100, "effectiveSupply": 78, "unit": "指数", "ratio": 0.78, "status": "紧缺" },
+        { "name": "液冷 / CDU", "chain": "散热", "demand": 100, "effectiveSupply": 88, "unit": "指数", "ratio": 0.88, "status": "偏紧" },
+        { "name": "电源 / HVDC", "chain": "电源", "demand": 100, "effectiveSupply": 82, "unit": "指数", "ratio": 0.82, "status": "偏紧" }
+      ]
+    }
+  ],
+  "complianceNote": "所有默认数据为示例估算，待导入真实数据；只读取用户合法导出的本地数据。"
+}
